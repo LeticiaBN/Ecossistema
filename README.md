@@ -9,6 +9,8 @@ Coisas a fazer:
   *Classes
   <br>
   *Ações de cada classe
+  <br>
+  *Gráfico geração x fitness
 
 <br><br>
 Classes:
